@@ -11,5 +11,5 @@ This repository is explained in the blog post
 Want to collect NPS scores without setting up the Flask app locally? Use the
 Heroku deploy button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/makaimc/sms-net-promoter-score)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/okyzaprabowo/sms-net-promoter-score)
 
